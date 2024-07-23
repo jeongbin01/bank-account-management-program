@@ -32,14 +32,8 @@
    - 프로그램 종료
 
 ## 디렉토리 구조
-bank-account-management/
-│
-├── src/
-│   ├── Account.java
-│   ├── AccountManager.java
-│   └── ConsoleColors.java
-│
-└── README.md
+<img width="92" alt="화면 캡처 2024-07-23 172746" src="https://github.com/user-attachments/assets/346507d9-074b-49e1-889e-87b6fdf68749">
+
 
 ## 클래스 설명
 
