@@ -22,6 +22,10 @@ Java로 작성된 간단한 은행 계좌 관리 시스템입니다.<br>
 
 ### 버전 관리
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30">
+
+
 
 ### 데이터 저장
 - 파일 시스템 (텍스트 파일 기반)
