@@ -32,7 +32,7 @@
    - 프로그램 종료
 
 ## 디렉토리 구조
-<img width="92" alt="화면 캡처 2024-07-23 172746" src="https://github.com/user-attachments/assets/346507d9-074b-49e1-889e-87b6fdf68749">
+<img src="https://github.com/user-attachments/assets/346507d9-074b-49e1-889e-87b6fdf68749" width="400" alt="화면 캡처 2024-07-23 172746">
 
 
 ## 클래스 설명
