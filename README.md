@@ -15,7 +15,8 @@ Java로 작성된 간단한 은행 계좌 관리 시스템입니다. 사용자�
 ## 기술 스택
 
 - **언어**:
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" width="100">
+
 
 - **개발 환경**: 
   - JDK (Java Development Kit)
